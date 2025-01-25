@@ -6,10 +6,14 @@
 
 function say_hello() {
     // CODE HERE!!!
+<<<<<<< Updated upstream
     console.log("What is your name?")
     console.log("Kitichai Fanprom")
     console.log("Jiafei Daidai")
+=======
     console.log("Detnarin Karinchai N Nan")
+>>>>>>> Stashed changes
+    
 }
 
 // Don’t change the code under this comment!
