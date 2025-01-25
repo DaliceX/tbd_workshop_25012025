@@ -18,6 +18,5 @@ def diff(num1: int, num2: int) -> None:
 def mul(num1: int, num2: int) -> None:
     # Edit code under this line
     res = num1 * num2
-    print("A")
     print(num1, "*", num2, "is", res)
     pass
